@@ -1,0 +1,43 @@
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\SpeechtoText.Definition.resources
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\SpeechtoText.Main.resources
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\SpeechtoText.Resources.resources
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\SpeechtoText.Weatherbox.resources
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\bin\Release\Spext.exe.config
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\bin\Release\Spext.exe.manifest
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\bin\Release\Spext.application
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\bin\Release\Spext.exe
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\bin\Release\Spext.pdb
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\bin\Release\Spext.xml
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\Spext.TrustInfo.xml
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\Spext.exe.manifest
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\Spext.application
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\Spext.exe
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\Spext.xml
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\Spext.pdb
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\SpeechtoText.Converter.resources
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\SpeechtoText.Time.resources
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Release\SpeechtoText.Settings.resources
+C:\Users\Rushi\Desktop\Spext\Spext\bin\Release\Spext.exe.config
+C:\Users\Rushi\Desktop\Spext\Spext\bin\Release\Spext.exe.manifest
+C:\Users\Rushi\Desktop\Spext\Spext\bin\Release\Spext.application
+C:\Users\Rushi\Desktop\Spext\Spext\bin\Release\Spext.exe
+C:\Users\Rushi\Desktop\Spext\Spext\bin\Release\Spext.pdb
+C:\Users\Rushi\Desktop\Spext\Spext\bin\Release\Spext.xml
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\SpeechtoText.Converter.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\SpeechtoText.Definition.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\SpeechtoText.Main.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\SpeechtoText.Resources.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\SpeechtoText.Settings.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\SpeechtoText.Time.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\SpeechtoText.Weatherbox.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\Spext.TrustInfo.xml
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\Spext.exe.manifest
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\Spext.application
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\Spext.exe
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\Spext.xml
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\Spext.pdb
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\Spext.vbprojResolveAssemblyReference.cache
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Release\Spext.vbproj.GenerateResource.Cache

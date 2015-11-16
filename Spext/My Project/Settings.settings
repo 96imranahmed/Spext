@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Autocomplete" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Weather in&lt;/string&gt;
+  &lt;string&gt;weather in&lt;/string&gt;
+  &lt;string&gt;Facebook&lt;/string&gt;
+  &lt;string&gt;facebook&lt;/string&gt;
+  &lt;string&gt;Google&lt;/string&gt;
+  &lt;string&gt;google&lt;/string&gt;
+  &lt;string&gt;Youtube&lt;/string&gt;
+  &lt;string&gt;youtube&lt;/string&gt;
+  &lt;string&gt;define&lt;/string&gt;
+  &lt;string&gt;definition of&lt;/string&gt;
+  &lt;string&gt;Define&lt;/string&gt;
+  &lt;string&gt;Definition of&lt;/string&gt;
+  &lt;string&gt;time in&lt;/string&gt;
+  &lt;string&gt;Time in&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Location" Type="System.String" Scope="User">
+      <Value Profile="(Default)">London</Value>
+    </Setting>
+    <Setting Name="ListeningTimer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="FacebookPublishToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FacebookTokenChange" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FacebookIsConnected" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FadeOutTimer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

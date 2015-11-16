@@ -1,0 +1,85 @@
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\bin\Debug\Spext.exe
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\bin\Debug\Spext.pdb
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\bin\Debug\Spext.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\obj\x86\Debug\SpeechtoText.Main.resources
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\obj\x86\Debug\SpeechtoText.Resources.resources
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\obj\x86\Debug\Spext.exe
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\obj\x86\Debug\Spext.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\obj\x86\Debug\Spext.pdb
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\bin\Debug\Spext.exe.manifest
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\bin\Debug\Spext.application
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Debug\Spext.TrustInfo.xml
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Debug\Spext.exe.manifest
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Debug\Spext.application
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\obj\x86\Debug\SpeechtoText.Weatherbox.resources
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\bin\Debug\Spext.exe.config
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Debug\SpeechtoText.Definition.resources
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Debug\SpeechtoText.Time.resources
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Debug\SpeechtoText.Converter.resources
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\obj\x86\Debug\SpeechtoText.Settings.resources
+C:\Users\Imran Ahmed\documents\visual studio 2010\Projects\Spext\Spext\bin\Debug\NAudio.dll
+C:\Users\Rushi\Desktop\Spext\Spext\bin\Debug\Spext.exe.config
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\Spext.exe
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\Spext.xml
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\Spext.pdb
+C:\Users\Rushi\Desktop\Spext\Spext\bin\Debug\Spext.exe.manifest
+C:\Users\Rushi\Desktop\Spext\Spext\bin\Debug\Spext.application
+C:\Users\Rushi\Desktop\Spext\Spext\bin\Debug\Spext.exe
+C:\Users\Rushi\Desktop\Spext\Spext\bin\Debug\Spext.pdb
+C:\Users\Rushi\Desktop\Spext\Spext\bin\Debug\Spext.xml
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Converter.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Definition.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Main.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Resources.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Settings.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Time.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Weatherbox.resources
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\Spext.TrustInfo.xml
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\Spext.exe.manifest
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\Spext.application
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\Spext.vbproj.GenerateResource.Cache
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\Spext.vbprojResolveAssemblyReference.cache
+C:\Users\Rushi\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.FacebookStatusUpdate.resources
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\bin\Debug\Spext.exe.config
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\Spext.exe
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\Spext.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\Spext.pdb
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\bin\Debug\Spext.exe.manifest
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\bin\Debug\Spext.application
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\bin\Debug\Spext.exe
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\bin\Debug\Spext.pdb
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\bin\Debug\Spext.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\SpeechtoText.Converter.resources
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\SpeechtoText.Definition.resources
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\SpeechtoText.FacebookStatusUpdate.resources
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\SpeechtoText.Main.resources
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\SpeechtoText.Resources.resources
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\SpeechtoText.Settings.resources
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\SpeechtoText.Time.resources
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\SpeechtoText.Weatherbox.resources
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\Spext.TrustInfo.xml
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\Spext.exe.manifest
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\Spext.application
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\Spext.vbprojResolveAssemblyReference.cache
+C:\Users\Imran Ahmed\Documents\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\Spext.vbproj.GenerateResource.Cache
+E:\Visual Studio 2010\Projects\Spext\Spext\Spext\bin\Debug\Spext.exe.config
+E:\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\Spext.exe
+E:\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\Spext.xml
+E:\Visual Studio 2010\Projects\Spext\Spext\Spext\obj\x86\Debug\Spext.pdb
+C:\Users\Imran\Desktop\Spext\Spext\bin\Debug\Spext.exe.config
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\Spext.exe
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\Spext.xml
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\Spext.pdb
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\Spext.vbprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Converter.resources
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Definition.resources
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.FacebookStatusUpdate.resources
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Main.resources
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Resources.resources
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Settings.resources
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Time.resources
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\SpeechtoText.Weatherbox.resources
+C:\Users\Imran\Desktop\Spext\Spext\obj\x86\Debug\Spext.vbproj.GenerateResource.Cache
